@@ -1,18 +1,24 @@
 h1{
- color:rgba(0, 0, 255, 0.699) 
+ color:rgba(6, 6, 114, 0.699) 
 }
 h2{
-    color:rgba(0, 0, 255, 0.658)
+    color:rgba(4, 4, 116, 0.658)
    }
 body{
 background-color:rgba(0, 0, 0, 0.795) ;
-color:rgba(0, 0, 255, 0.644);
+color:rgba(8, 8, 133, 0.644);
 text-align: center;
 font-family: 'Times New Roman', Times, serif;
 }
 header{
-border-bottom: 1px solid rgba(13, 10, 219, 0.836);
+border-bottom: 1px solid rgba(10, 9, 116, 0.836);
 }
 footer{
-border-top: 1px solid rgba(27, 14, 206, 0.863);
+border-top: 1px solid rgba(11, 5, 90, 0.863);
+}
+#nome-usuario{
+    font-weight: bold;
+}
+.texto-ingles{
+    font-style: italic;
 }
